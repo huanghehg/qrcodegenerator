@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
                    DESC
   s.homepage     = "https://github.com/huanghehg/qrcodegenerator"
   s.license      = "MIT"
-  s.author       = { "hulatang@2dfire.com" => "hulatang@2dfire.com" }
+  s.author       = { "huanghehg" => "huanghehg@163.com" }
   s.platform     = :ios, "8.0"
   s.source       = { :git => "https://github.com/huanghehg/qrcodegenerator.git", :branch => "master" }
 
